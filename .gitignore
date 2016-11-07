@@ -1,6 +1,3 @@
-lilok1_results.py
-logs/lilok_results/*
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
