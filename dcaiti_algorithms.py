@@ -150,4 +150,4 @@ def benchmark(case):
     plt.show()
 
 
-benchmark(dc.Case.static)
+benchmark(dc.Case.closed_loop)
