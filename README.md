@@ -8,12 +8,12 @@ Adapt the python files to your purposes or even use the existing code to plot yo
 ## Example plots
 ### plotting IMU data
 Simple pedestrian step counting implementation to analyse IMU data from Android phone.
-![imu plots](https://lh4.googleusercontent.com/3LzgytwdWxMU3rAT10H-ddaoF_OzSfKAVKuOv58ks0gsNQm3ctZ-XBGh5C1otbi0dNchCSanLIv7iW8=w1270-h1303-rw)
+![imu plots](output/imu_foot_mounted.png)
 
 ### plotting LiDAR data
 Visualize error characteristics from an Ibeo Lux4 LiDAR sensor.
-![lidar plots](https://lh3.googleusercontent.com/BoeLQ6kZlDXGTgKqBjpr2CmDrSOKuxd3ePoval4ryL9tfMmmjaFSwWJmUzlrX3Vh8MSmQbvp3bMnfIg=w1270-h1303-rw)
+![lidar plots](output/lidar_error.png)
 
 ### plotting odometry data
 Visualize the error growth when integrating IMU data versus odometry from wheel encoders.
-![odometry plots](https://lh5.googleusercontent.com/cpZNZL_5t83NBOnHeDFIM4zbc868OxA2mScnK_phMal7ylG8Bu30JzgfaJqnODjAweZdNVK8zu_J1ng=w1270-h1303-rw)
+![odometry plots](output/dcaiti_odometry.png)
