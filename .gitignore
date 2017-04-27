@@ -1,3 +1,8 @@
+.idea/
+boxplot_myway.py
+logs/lilok_results/
+sensor.pdf
+lilok1_results.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
